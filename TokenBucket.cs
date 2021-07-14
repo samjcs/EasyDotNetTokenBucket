@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 
 namespace ThirdPartyData.Throttle
-{
+{ 
 	class TokenBucket
 	{
 		static readonly object SyncRoot = new object();
